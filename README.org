@@ -1,0 +1,10 @@
+* truetype-clx
+
+clx-truetype minus the clx, just outputs 2d arrays of alpha values from 0-255
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/JMC-design/truetype-clx.git   |
+| commit  | 397892d  |
+| systems | truetype-clx |
+|---------+-------------------------------------------|
+
